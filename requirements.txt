@@ -1,0 +1,2 @@
+fontTools==4.38.0
+glyphsLib==6.1.0
